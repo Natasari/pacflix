@@ -11,3 +11,8 @@ Plan yang tersedia
 | ----------- | ----------- |
 | Basic Plan | Yadaydaya |
 | Premium Plan | Blabla |
+
+## Cara pakai 
+```
+python main.py
+```
